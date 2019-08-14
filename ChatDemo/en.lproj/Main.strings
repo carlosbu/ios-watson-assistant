@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "iOS Speech Recognition"; ObjectID = "0lK-jB-wCu"; */
+"0lK-jB-wCu.text" = "iOS Speech Recognition";
+
+/* Class = "UITableViewSection"; headerTitle = "Recognition API"; ObjectID = "1Qx-1A-c0b"; */
+"1Qx-1A-c0b.headerTitle" = "Recognition API";
+
+/* Class = "UILabel"; text = "Watson Conversation"; ObjectID = "4dz-KH-Q1K"; */
+"4dz-KH-Q1K.text" = "Watson Conversation";
+
+/* Class = "UITableViewController"; title = "Voice Synthesis"; ObjectID = "53R-Ix-EL2"; */
+"53R-Ix-EL2.title" = "Voice Synthesis";
+
+/* Class = "UILabel"; text = "Watson Speech-To-Text"; ObjectID = "5Rq-W4-iaq"; */
+"5Rq-W4-iaq.text" = "Watson Speech-To-Text";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "8DQ-05-SVr"; */
+"8DQ-05-SVr.text" = "Language";
+
+/* Class = "UITableViewSection"; headerTitle = "iOS Native Settings"; ObjectID = "8tO-6h-3AJ"; */
+"8tO-6h-3AJ.headerTitle" = "iOS Native Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "HTTP Authentication (if any)"; ObjectID = "9IS-gi-ujk"; */
+"9IS-gi-ujk.headerTitle" = "HTTP Authentication (if any)";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "ACj-B2-btZ"; */
+"ACj-B2-btZ.placeholder" = "Username";
+
+/* Class = "UITableViewSection"; headerTitle = "Conversation Settings"; ObjectID = "BRS-c3-iiB"; */
+"BRS-c3-iiB.headerTitle" = "Conversation Settings";
+
+/* Class = "UIViewController"; title = "Voice"; ObjectID = "Cod-WV-iIn"; */
+"Cod-WV-iIn.title" = "Voice";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "FGT-2b-Llm"; */
+"FGT-2b-Llm.placeholder" = "Password";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom Orchestrator Settings"; ObjectID = "FdC-IY-oPZ"; */
+"FdC-IY-oPZ.headerTitle" = "Custom Orchestrator Settings";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Fml-jo-gIP"; */
+"Fml-jo-gIP.placeholder" = "Username";
+
+/* Class = "UITableViewSection"; headerTitle = "HTTP Authentication (if any)"; ObjectID = "Fwe-OZ-pry"; */
+"Fwe-OZ-pry.headerTitle" = "HTTP Authentication (if any)";
+
+/* Class = "UITableViewController"; title = "Orchestrator"; ObjectID = "HAi-dr-YWx"; */
+"HAi-dr-YWx.title" = "Orchestrator";
+
+/* Class = "UILabel"; text = "Voice Synthesis"; ObjectID = "HhE-R1-ArH"; */
+"HhE-R1-ArH.text" = "Voice Synthesis";
+
+/* Class = "UIButton"; normalTitle = "Toque para gravar"; ObjectID = "I03-Bn-UFs"; */
+"I03-Bn-UFs.normalTitle" = "Toque para gravar";
+
+/* Class = "UITextField"; placeholder = "Workspace ID"; ObjectID = "KcI-bQ-Oql"; */
+"KcI-bQ-Oql.placeholder" = "Workspace ID";
+
+/* Class = "UILabel"; text = "Custom Orchestrator"; ObjectID = "OVN-VK-l7q"; */
+"OVN-VK-l7q.text" = "Custom Orchestrator";
+
+/* Class = "UITableViewSection"; headerTitle = "Orchestration API"; ObjectID = "Pq3-av-cy4"; */
+"Pq3-av-cy4.headerTitle" = "Orchestration API";
+
+/* Class = "UITableViewSection"; headerTitle = "iOS Voice Synthesis Settings"; ObjectID = "SDF-Uo-Hrb"; */
+"SDF-Uo-Hrb.headerTitle" = "iOS Voice Synthesis Settings";
+
+/* Class = "UIViewController"; title = "Chat"; ObjectID = "SK7-wu-qz7"; */
+"SK7-wu-qz7.title" = "Chat";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ShX-SH-qib"; */
+"ShX-SH-qib.placeholder" = "Password";
+
+/* Class = "UIViewController"; title = "Voice"; ObjectID = "TX5-Sn-OCA"; */
+"TX5-Sn-OCA.title" = "Voice";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "Tbd-CA-Gol"; */
+"Tbd-CA-Gol.normalTitle" = "...";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "XB9-Q5-jgV"; */
+"XB9-Q5-jgV.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "iOS Voice Synthesis"; ObjectID = "Yj6-gH-WnZ"; */
+"Yj6-gH-WnZ.text" = "iOS Voice Synthesis";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "a1C-kN-g6U"; */
+"a1C-kN-g6U.title" = "Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "Watson Speech-to-Text Settings"; ObjectID = "bQC-iW-DgR"; */
+"bQC-iW-DgR.headerTitle" = "Watson Speech-to-Text Settings";
+
+/* Class = "UILabel"; text = "Custom Voice Synthesis"; ObjectID = "caH-IE-cpV"; */
+"caH-IE-cpV.text" = "Custom Voice Synthesis";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "eQX-cd-dBj"; */
+"eQX-cd-dBj.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "fqg-Yq-Vkr"; */
+"fqg-Yq-Vkr.text" = "Language";
+
+/* Class = "UITableViewSection"; headerTitle = "Recognition API"; ObjectID = "gMr-ZP-3wA"; */
+"gMr-ZP-3wA.headerTitle" = "Recognition API";
+
+/* Class = "UIViewController"; title = "Voice"; ObjectID = "gQK-Xt-ZAg"; */
+"gQK-Xt-ZAg.title" = "Voice";
+
+/* Class = "UILabel"; text = "Orchestrator"; ObjectID = "gf3-Uv-CPg"; */
+"gf3-Uv-CPg.text" = "Orchestrator";
+
+/* Class = "UILabel"; text = "Speech Recognition"; ObjectID = "i0j-oa-UmQ"; */
+"i0j-oa-UmQ.text" = "Speech Recognition";
+
+/* Class = "UITableViewSection"; headerTitle = "Watson Text-to-Speech Settings"; ObjectID = "inK-L6-xQv"; */
+"inK-L6-xQv.headerTitle" = "Watson Text-to-Speech Settings";
+
+/* Class = "UIViewController"; title = "Voice"; ObjectID = "jxB-mv-2q8"; */
+"jxB-mv-2q8.title" = "Voice";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom Voice Synthesis Settings"; ObjectID = "lgN-mO-f2V"; */
+"lgN-mO-f2V.headerTitle" = "Custom Voice Synthesis Settings";
+
+/* Class = "UITextField"; placeholder = "Custom Voice Synthesis URL"; ObjectID = "nNJ-rQ-RRc"; */
+"nNJ-rQ-RRc.placeholder" = "Custom Voice Synthesis URL";
+
+/* Class = "UILabel"; text = "Watson Text-to-Speech"; ObjectID = "nWi-zf-y5B"; */
+"nWi-zf-y5B.text" = "Watson Text-to-Speech";
+
+/* Class = "UILabel"; text = "Voice"; ObjectID = "o48-OI-d2j"; */
+"o48-OI-d2j.text" = "Voice";
+
+/* Class = "UITableViewSection"; headerTitle = "HTTP Authentication (if any)"; ObjectID = "q0H-JH-ZqZ"; */
+"q0H-JH-ZqZ.headerTitle" = "HTTP Authentication (if any)";
+
+/* Class = "UILabel"; text = "Read from QR Code"; ObjectID = "tol-7j-gkX"; */
+"tol-7j-gkX.text" = "Read from QR Code";
+
+/* Class = "UILabel"; text = "Voice"; ObjectID = "utL-yT-iyQ"; */
+"utL-yT-iyQ.text" = "Voice";
+
+/* Class = "UITextField"; placeholder = "Custom Orchestrator URL"; ObjectID = "v2T-TT-Pz4"; */
+"v2T-TT-Pz4.placeholder" = "Custom Orchestrator URL";
+
+/* Class = "UILabel"; text = "Delete Audio Cache"; ObjectID = "yT8-gh-NNa"; */
+"yT8-gh-NNa.text" = "Delete Audio Cache";
+
+/* Class = "UITableViewController"; title = "Speech Recognition"; ObjectID = "yuM-28-dhs"; */
+"yuM-28-dhs.title" = "Speech Recognition";
