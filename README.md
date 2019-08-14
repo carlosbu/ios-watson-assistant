@@ -21,5 +21,5 @@ You may opt to replace each of these API's with Watson services, by configuring 
 
 Clone the repository and install Carthage dependencies.
 
-    $ git clone git@github.ibm.com:mbigelli/ios-conversation.git
+    $ git clone git@github.ibm.com:carlosbu/ios-watson-assistant.git
     $ carthage update --platform ios
