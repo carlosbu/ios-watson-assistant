@@ -1,2 +1,2 @@
-github "watson-developer-cloud/swift-sdk"
+github "watson-developer-cloud/swift-sdk" ~> 2.2.0
 github "hemantasapkota/JSQMessagesViewController" ~> 1.1.0

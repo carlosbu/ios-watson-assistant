@@ -27,7 +27,8 @@ class NativeRecognitionApi: RecognitionApi {
         isRecognizing = true
         
         try? audioSession.setActive(true, options: .notifyOthersOnDeactivation)
-        try? audioSession.setCategory(AVAudioSession.Category.playAndRecord)
+        try? audioSession.setCategory(.playAndRecord, mode: .default)
+//        try? audioSession.setCategory(AVAudioSession.Category.playAndRecord)
         
         recognitionRequest = SFSpeechAudioBufferRecognitionRequest()
         recognitionRequest!.shouldReportPartialResults = true

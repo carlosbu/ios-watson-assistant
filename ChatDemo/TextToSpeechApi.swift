@@ -77,7 +77,8 @@ class TextToSpeechApi: NSObject, SynthesisApi, AVAudioPlayerDelegate {
     func play(audio: Data) {
         speechStartBlock?()
         do {
-            try AVAudioSession.sharedInstance().setCategory(AVAudioSession.Category.playback)
+//            try AVAudioSession.sharedInstance().setCategory(AVAudioSession.Category.playback)
+            try AVAudioSession.sharedInstance().setCategory(.playback, mode: .default)
             try AVAudioSession.sharedInstance().setActive(true)
             
             player = try AVAudioPlayer(data: audio, fileTypeHint: AVFileType.wav.rawValue)

@@ -27,8 +27,10 @@ public struct Attribute: Codable, Equatable {
     public enum TypeEnum: String {
         case currency = "Currency"
         case datetime = "DateTime"
+        case definedterm = "DefinedTerm"
         case duration = "Duration"
         case location = "Location"
+        case number = "Number"
         case organization = "Organization"
         case percentage = "Percentage"
         case person = "Person"

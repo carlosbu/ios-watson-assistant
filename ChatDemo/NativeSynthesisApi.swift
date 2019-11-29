@@ -31,7 +31,9 @@ class NativeSynthesisApi: NSObject, SynthesisApi, AVSpeechSynthesizerDelegate {
         successBlock = success
         
         try? AVAudioSession.sharedInstance().setActive(true, options: .notifyOthersOnDeactivation)
-        try? AVAudioSession.sharedInstance().setCategory(AVAudioSession.Category.playback)
+        try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .default)
+        
+//        try? AVAudioSession.sharedInstance().setCategory(AVAudioSession.Category.playback)
         
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = AVSpeechSynthesisVoice(language: language)
